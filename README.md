@@ -1,2 +1,2 @@
 # CloudGaming-Corridor
-云游戏演示用游戏
+云游戏项目演示用游戏
