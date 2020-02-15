@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: cef5448d08efa4945b7028973feb3bc0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: Ceiling_Light
+    100004: Column
+    100006: //RootNode
+    100008: default
+    100010: Door_Final
+    100012: FireExtinguisher
+    100014: Floor_Final
+    100016: Floor_Pipe
+    100018: Hollow_Prim
+    100020: Sticker_Nasa
+    100022: Wall_Bumper_Extrusion
+    100024: Wall_Bumper_Group
+    100026: Wall_Group
+    100028: Wall_Pipe
+    400000: Ceiling
+    400002: Ceiling_Light
+    400004: Column
+    400006: //RootNode
+    400008: default
+    400010: Door_Final
+    400012: FireExtinguisher
+    400014: Floor_Final
+    400016: Floor_Pipe
+    400018: Hollow_Prim
+    400020: Sticker_Nasa
+    400022: Wall_Bumper_Extrusion
+    400024: Wall_Bumper_Group
+    400026: Wall_Group
+    400028: Wall_Pipe
+    2100000: CeilingMat
+    2100002: Ceiling_LightMat
+    2100004: ColumnMat
+    2100006: defaultMat
+    2100008: Door_FinalMat
+    2100010: FireExtinguisherMat
+    2100012: Floor_FinalMat
+    2100014: Floor_PipeMat
+    2100016: Hollow_PrimMat
+    2100018: Sticker_NasaMat
+    2100020: Wall_Bumper_ExtrusionMat
+    2100022: Wall_Bumper_GroupMat
+    2100024: Wall_GroupMat
+    2100026: Wall_PipeMat
+    2300000: Ceiling
+    2300002: Ceiling_Light
+    2300004: Column
+    2300006: default
+    2300008: Door_Final
+    2300010: FireExtinguisher
+    2300012: Floor_Final
+    2300014: Floor_Pipe
+    2300016: Hollow_Prim
+    2300018: Sticker_Nasa
+    2300020: Wall_Bumper_Extrusion
+    2300022: Wall_Bumper_Group
+    2300024: Wall_Group
+    2300026: Wall_Pipe
+    3300000: Ceiling
+    3300002: Ceiling_Light
+    3300004: Column
+    3300006: default
+    3300008: Door_Final
+    3300010: FireExtinguisher
+    3300012: Floor_Final
+    3300014: Floor_Pipe
+    3300016: Hollow_Prim
+    3300018: Sticker_Nasa
+    3300020: Wall_Bumper_Extrusion
+    3300022: Wall_Bumper_Group
+    3300024: Wall_Group
+    3300026: Wall_Pipe
+    4300000: Ceiling
+    4300002: Ceiling_Light
+    4300004: Column
+    4300006: default
+    4300008: Door_Final
+    4300010: FireExtinguisher
+    4300012: Floor_Final
+    4300014: Floor_Pipe
+    4300016: Hollow_Prim
+    4300018: Sticker_Nasa
+    4300020: Wall_Bumper_Extrusion
+    4300022: Wall_Bumper_Group
+    4300024: Wall_Group
+    4300026: Wall_Pipe
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
